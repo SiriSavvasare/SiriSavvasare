@@ -6,7 +6,7 @@
 
 ##  Skills & Interests
 - **Languages:** Python (primary), beginning with HTML/CSS/JavaScript for web development.
-- **Specialization:** Artificial Intelligence, Machine Learning
+- **Specialization:** Artificial Intelligence, Machine Learning.
 - **Interests:** Machine learning, AI applications, web development
 
 ##  What I’m Learning Now
