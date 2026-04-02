@@ -16,4 +16,4 @@
 
 ##  How to reach me
 - Email: [sirivaibhavi9@gmail.com](mailto:sirivaibhavi9@gmail.com)
-- LinkedIn: [Siri K K](https://www.linkedin.com/in/siri-k-k-1b6536334)
+- LinkedIn: [Siri Savvasere](https://www.linkedin.com/in/siri-savvasare/)
